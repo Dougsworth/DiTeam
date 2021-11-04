@@ -1,0 +1,25 @@
+{
+  "name": "diteam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dougsworth/DiTeam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dougsworth/DiTeam/issues"
+  },
+  "homepage": "https://github.com/Dougsworth/DiTeam#readme",
+  "dependencies": {
+    "express-fileupload": "^1.2.1",
+    "express.js": "^1.0.0",
+    "nodemon": "^2.0.14"
+  }
+}
